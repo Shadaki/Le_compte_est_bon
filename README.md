@@ -1,5 +1,7 @@
 # Le compte est bon !
 
+[![Build Status](https://travis-ci.org/sagessylu/Le_compte_est_bon.svg?branch=master)](https://travis-ci.org/sagessylu/Le_compte_est_bon)
+
 Ce programme est un résolveur automatique pour le jeu « Le compte est bon ! »
 
 ## Règles du jeu
